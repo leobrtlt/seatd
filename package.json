@@ -1,0 +1,11 @@
+{
+	"author": "LEO",
+	"version": "1.0.1a",
+	"server_scripts": [
+		"server.lua"
+
+	],
+	"client_scripts": [
+		"client.lua"
+	]
+}
